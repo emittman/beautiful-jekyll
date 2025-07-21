@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Corn-fed Data Scientist from Iowa City
+# permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Personal
+My partner and I fell in love in college and, being care<s>less</s>free young people, we tied the knot at 23 and 24 years of age. As of this writing we are proud parents of four beautiful children, ages 2, 9, 14 and 17. Our oldest daughter talked into getting a frisky black dog and a very agreeable cat. Next year the two oldest will get themselves to high school so we only need to taxi the 4th grader. We love living in Iowa because we get to be near our extended family and because the weather here makes sure we pay attention to it.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact me
+[mittman.eric@gmail.com](mailto:mittman.eric@gmail.com)
